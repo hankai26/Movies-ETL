@@ -7,10 +7,14 @@ This project is to to create an automated pipeline that takes in new data, perfo
 - Deliverable 4: Create the Movie Database.
 ## Discussion
 In deliverale 4, the query for Table movies using COUNT function works well. 
+
 ![movies_query](https://github.com/hankai26/Movies-ETL/blob/main/Resources/movies_query.png)
 
+
 While the same query for Table ratings doesn't work and come with the error message as below. Instead, we selected the entire table to confirm that the ratings table has 26,024,289 rows.
+
 ![errmsg](https://github.com/hankai26/Movies-ETL/blob/main/Resources/errmsg.png)
+
 ![ratings_query](https://github.com/hankai26/Movies-ETL/blob/main/Resources/ratings_query.png)
 
 
