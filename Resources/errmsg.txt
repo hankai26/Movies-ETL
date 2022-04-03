@@ -1,0 +1,5 @@
+ERROR:  could not load library "/Library/PostgreSQL/13/lib/postgresql/llvmjit.so": dlopen(/Library/PostgreSQL/13/lib/postgresql/llvmjit.so, 10): Library not loaded: @loader_path/../..//opt/local/lib/libncurses.6.dylib
+  Referenced from: /Library/PostgreSQL/13/lib/postgresql/llvmjit.so
+  Reason: image not found
+CONTEXT:  parallel worker
+SQL state: 58P01
