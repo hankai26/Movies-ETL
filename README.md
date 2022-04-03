@@ -5,6 +5,9 @@ This project is to to create an automated pipeline that takes in new data, perfo
 - Deliverable 2: Extract and Transform the Wikipedia Data and Merge with the Kaggle Metadata.
 - Deliverable 3: Extract and Transform the Kaggle data and MovieLens rating data as well as Converting into DataFrames.
 - Deliverable 4: Create the Movie Database.
+The data folder includes three files, wikipedia-movies, movies_metadata.csv and ratings.csv. They can be downloaded through the link as below.
+https://drive.google.com/drive/folders/1xqT8RxMt4muBnzmhAhxTqdP_SuVtWU-K?usp=sharing
+
 ## Discussion
 In deliverale 4, the query for Table movies using COUNT function works well. 
 
