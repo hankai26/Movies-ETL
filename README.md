@@ -10,7 +10,7 @@ The data folder includes three files, wikipedia-movies, movies_metadata.csv and 
 https://drive.google.com/drive/folders/1xqT8RxMt4muBnzmhAhxTqdP_SuVtWU-K?usp=sharing
 
 ## Discussion
-In deliverale 4, the query for Table movies using COUNT function works well. 
+In deliverale 4, the query for Table movies using COUNT() function works well. 
 
 ![movies_query](https://github.com/hankai26/Movies-ETL/blob/main/Resources/movies_query.png)
 
